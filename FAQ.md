@@ -21,7 +21,7 @@ A. No plans right now or in the near future. Windows version is a possibility bu
 A. First of all, it allows you to tag repositories. Lack of this feature is why we decided to start this project in the first place. We can't talk about all the details, but by the time 1.0 is out, we'll have a lot more features such as: 
 
 * Integrating Twitter timeline for your favorite developers. This makes it easy to see what they are up to. *(STATUS: Implementing)*
-* Auto suggested tags. *(STATUS: Implementation design phase)*
+* Auto suggested tags. *(STATUS: Implemented in v0.2)*
 * Grouping repositories and developers anyway you want by making lists. This way you can just watch the lists that you are interested in, for an example. *(STATUS: Implementation design phase)* 
 * Cloud synching and backup. *(STATUS: Planning phase)*
 * Filters for activities/ news feed. *(STATUS: Planning phase)*
